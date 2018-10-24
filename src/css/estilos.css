@@ -53,8 +53,10 @@ box-sizing: border-box;         /* Opera/IE 8+ */
 
 }
 
+
 .details{
   display: flex;
+  justify-content: space-around;
   align-items: center;
 }
 
